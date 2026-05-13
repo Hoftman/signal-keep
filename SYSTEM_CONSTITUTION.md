@@ -1,8 +1,8 @@
 # Signal Keep — System Constitution
 
-**Version:** 2.5
-**Status:** Ratified
-**Supersedes:** v2.4
+**Version:** 2.5  
+**Status:** Ratified  
+**Supersedes:** v2.4  
 
 ---
 
